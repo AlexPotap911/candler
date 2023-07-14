@@ -1,6 +1,5 @@
 body {
   font-family: "Comfortaa", cursive;
-  /* font-family: 'Yeseva One', cursive; */
   color: #000;
   font-style: normal;
   font-weight: 400;
@@ -58,6 +57,58 @@ background-color: #7b6152;
   left: -23px;
   top: -3px;
 }
+
+.main{
+  background-color: #fff8f3;
+}
+
+.top{
+  padding: 30px 0 150px;
+}
+
+.top__inner{
+  position: relative;
+}
+
+.top__content{
+  width: 370px;
+  padding: 150px 0 250px;
+}
+
+.top__title {
+  font-family: 'Yeseva One', cursive;
+  font-size: 30px;
+}
+.top__text {
+  margin-top: 15px;
+}
+.top__buy {
+  margin-top: 48px;
+  padding: 18px 54px;
+  background-color: #ffbd59;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.top__img{
+  position: absolute;
+  top: 0;
+  left: 240px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .footer{
   padding: 40px 0 35px;
